@@ -1,0 +1,15 @@
+article {background-color: lavender;
+        display: inline-block;
+        padding: 20px;
+        border: 2px solid;
+        margin: 10px;
+        margin-top: 9px;
+}
+.titles {border: 3px solid;             background-color: lavenderblush;
+text-align: center;}
+
+
+
+
+.box {height:150px; width: 150px;
+}
